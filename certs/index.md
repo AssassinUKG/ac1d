@@ -33,12 +33,15 @@ Use Mimikatz to perform a Pass-The-Hash attack |  <img src="/ac1d/images/PAssthe
 
 <table>
 <tr>
-   <td>Hello</td>
-    <td>Are</td>
-  <td>You</td>
-  <td>ok</td>
+   <td>Title</td>
+    <td>Image</td>
+ </tr>
+ <tr>
+    <td>Video Recording</td>    
+     <td><img src="/ac1d/images/Lab_videorecording.png" width=400 height=250></td> 
+    <td>Virtual Machine</td>    
+     <td><img src="/ac1d/images/Lab_VM.png" width=400 height=250></td> 
 </tr>
-  
   
 </table>
 
