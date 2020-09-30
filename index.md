@@ -12,7 +12,7 @@ NT AUTHORITY\SYSTEM - Yeah, the boss here. On a serious note... This is where al
 
 ### Quick links
 * [My Cyber Security Certificates](https://assassinukg.github.io/ac1d/certs/)
-* [Reverse shells](https://assassinukg.github.io.ac1d/content/)
+* [Reverse shells](https://assassinukg.github.io/ac1d/content/)
 * [Snippets](https://assassinukg.github.io/ac1d/snippets/)
 
 ### Recent projects
