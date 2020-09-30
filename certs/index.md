@@ -12,7 +12,6 @@ Title | Image
 ------|-------
 Video Recording | <img src="/ac1d/images/Lab_videorecording.png" width=400 height=250>
 Virtual Machine  |<img src="/ac1d/images/Lab_VM.png" width=400 height=250>
-Threa hunting with Pandas |<img src="/ac1d/images/LabHuntingPandas.png" width=400 height=250>
 Malware Dataset |<img src="/ac1d/images/Lab_malware.png" width=400 height=250>
 Reverse Engineering |<img src="/ac1d/images/Lab_RE.png" width=400 height=250>
 
@@ -39,12 +38,22 @@ Use Mimikatz to perform a Pass-The-Hash attack |  <img src="/ac1d/images/PAssthe
  <tr>
     <td>Video Recording</td>    
      <td><img src="/ac1d/images/Lab_videorecording.png" width=400 height=250></td> 
-   </tr><tr>
-    
+   </tr>
+   <tr>    
     <td>Virtual Machine</td>    
      <td><img src="/ac1d/images/Lab_VM.png" width=400 height=250></td> 
      </tr>
-
+<tr>    
+    <td>Threa hunting with Pandas</td>    
+     <td><img src="/ac1d/images/LabHuntingPandas.png" width=400 height=250></td> 
+     </tr>
+   <tr>    
+    <td>Malware Dataset</td>    
+     <td><img src="/ac1d/images/Lab_malware.png" width=400 height=250></td> 
+     </tr><tr>    
+    <td>Reverse Engineering</td>    
+     <td><img src="/ac1d/images/Lab_malware.png" width=400 height=250></td> 
+     </tr>
   
 </table>
 
