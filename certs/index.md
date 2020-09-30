@@ -173,6 +173,7 @@
 </table>   
 <br>
 <h2>Threat Hunting</h2>
+<table>
 <tr>
    <td>Perform Threat Hunting against 2 machines</td>
    <td>Not started/completed</td>
@@ -213,7 +214,7 @@
    <td>Write a YARA rule that detects suspicious Windows APIs</td>
    <td><img src="/ac1d/images/yaraWinApi.png" width=400 height=250></td>
 </tr>
-
+</table>
 
 
 
