@@ -1,3 +1,3 @@
 # Certificates
 
-## Trainig institute: [Link]https://www.mosse-institute.com/
+## Trainig institute: [Link](https://www.mosse-institute.com/)
