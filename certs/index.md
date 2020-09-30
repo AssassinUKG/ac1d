@@ -6,6 +6,15 @@
 ## Trainig institute: [mosse-institute](https://www.mosse-institute.com/)
 ## Student Profile: [Richard Jones](https://students.mosse-institute.com/student/eoEPcxbizUSJ9yEZIWdLslF4Puj2)
 
+### Sections
+1. Lab Setup
+2. Security Tools
+3. Penetration Testing
+4. Cyber Defence
+5. Threat Hunting
+6. Secure Software Development
+7. Red Teaming
+
 <br/>
 <div class="tables"> 
 <br/>
