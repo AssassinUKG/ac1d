@@ -1,13 +1,3 @@
-<script>
-#tables{
-  color:red;
-  }
-  
-  
-</script>
-
-
-
 
 # Certificates
 
