@@ -72,15 +72,59 @@
      </tr>
    <tr>    
     <td>Use TheHarvester.py to gather information about targets</td>    
-     <td>Not passed (yet)</td> 
+     <td>Not started/completed</td> 
      </tr><tr>    
     <td>Use Metasploit's Port Forwarding capabilities to gain access to a machine that doesn't have direct Internet access</td>    
      <td><img src="/ac1d/images/portforwarding_meta.png" width=400 height=250></td> 
      </tr><tr>    
     <td>Use Mimikatz to perform a Pass-The-Hash attack</td>    
      <td><img src="/ac1d/images/PAssthehash.png" width=400 height=250></td> 
-     </tr>
-  
+     </tr>  
+</table>
+
+<h1>Penetration Testing</h1>
+<table>
+   <tr>
+      <td>Write a PS script that enables the AlwaysInstallElevated registry key</td>
+      <td><img src="/ac1d/images/PS_AlwaysinstalledEvelated.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Write a web shell in PHP</td>
+      <td><img src="/ac1d/images/php_web_shell.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Write a PHP application with an exposed phpinfo.php page</td>
+      <td><img src="/ac1d/images/Php_phpinfo.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Write a application vulnerable to Abitrary Command Execution</td>
+      <td><img src="/ac1d/images/arbitarcmdinjection.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Google Hacking</td>
+      <td><img src="/ac1d/images/googlehacking.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Write a PS script that installs an insecure Windows Service</td>
+      <td><img src="/ac1d/images/PS_Insecureserv.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Execute arbitrary commands on a server via a SQL injection vulnerability</td>
+      <td>Not started/completed</td>
+   </tr>
+   <tr>
+      <td>Write a web application with insecure XSS filters</td>
+      <td>Not started/completed</td>
+   </tr>
+   <tr>
+      <td>Write a tool to brute authentication pages</td>
+      <td><img src="/ac1d/images/bruteForce.png" width=400 height=250></td>
+   </tr>
+   <tr>
+      <td>Write a Web Application Penetration Testing Checklist</td>
+      <td>Not started/completed</td>
+   </tr>
+     
 </table>
 
 
