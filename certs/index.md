@@ -9,7 +9,8 @@
 
 <div class="tables"> 
 <br>
-<h1>Lab setup</h1>
+   <h1>MRI - MCSI Remote Internship</h1>    
+<h2>Lab setup</h2>
 <table>
 <tr>
    <td>Title</td>
@@ -37,7 +38,7 @@
   
 </table>
 <br>
-<h1>Security Tools</h1>
+<h2>Security Tools</h2>
 
 <table>
 <tr>
@@ -83,7 +84,7 @@
      </tr>  
 </table>
 
-<h1>Penetration Testing</h1>
+<h2>Penetration Testing</h2>
 <table>
    <tr>
       <td>Write a PS script that enables the AlwaysInstallElevated registry key</td>
@@ -124,9 +125,95 @@
    <tr>
       <td>Write a Web Application Penetration Testing Checklist</td>
       <td>Not started/completed</td>
-   </tr>
-     
+   </tr>     
 </table>
+
+<h2>Cyber Defence</h2>
+<table>
+   <tr>
+      <td>Write a PS script that copies Sysmon to remote machines and installs it with a given configuration file</td>
+      <td><img src="/ac1d/images/PS_sysmon.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script that edits the registry to mark LSASS.exe as a protected process</td>
+      <td><img src="/ac1d/images/PS_Lsass protected.png" width=400 height=250></td>
+   <tr>
+      <tr>
+      <td>Write a PS script to turn on Hyper-V</td>
+      <td><img src="/ac1d/images/PS_hyperV.png" width=400 height=250></td>
+   <tr>
+  <tr>
+      <td>Write a PS script to list missing security patches</td>
+      <td><img src="/ac1d/images/PS_listmissingpatches.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script to disable LLMNR</td>
+      <td><img src="/ac1d/images/lmnrr.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script to turn on Automatic Sample Submission</td>
+      <td><img src="/ac1d/images/PSautosubmission.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script to turn on Windows Defender</td>
+      <td><img src="/ac1d/images/PS_Defender.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script to turn on the Windows Firewall</td>
+      <td><img src="/ac1d/images/PS_firewall.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script that detects whether a machine has more than 1 local administrator</td>
+      <td><img src="/ac1d/images/PS_admin1.png" width=400 height=250></td>
+   <tr>
+   <tr>
+      <td>Write a PS script that detects installed anti-virus software</td>
+      <td><img src="/ac1d/images/PS_detectAV.png" width=400 height=250></td>
+   <tr>   
+</table>   
+<br>
+<h2>Threat Hunting</h2>
+<tr>
+   <td>Perform Threat Hunting against 2 machines</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Perform Threat Hunting against 5 machines </td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a YARA rule that can find itself</td>
+   <td><img src="/ac1d/images/yarafinditself.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a YARA rule that can find binaries that have more than 3 URLs</td>
+   <td><img src="/ac1d/images/yara_3_ormorebins.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a YARA rule that is professionally documented</td>
+   <td><img src="/ac1d/images/Yara_prodocument.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a YARA rule that identifies Chinese executables</td>
+   <td><img src="/ac1d/images/yara_ChineseBins.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a YARA rule that can find small portable executables</td>
+   <td><img src="/ac1d/images/Yara_findsamlBins.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a YARA rule that can find improperly signed executables</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a YARA rule that searches for strings using hex and wild-cards</td>
+   <td><img src="/ac1d/images/yara_hexWild.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a YARA rule that detects suspicious Windows APIs</td>
+   <td><img src="/ac1d/images/yaraWinApi.png" width=400 height=250></td>
+</tr>
+
 
 
 
