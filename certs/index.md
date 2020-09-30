@@ -5,4 +5,4 @@
 
 ### Lab setup
 ![Lab Setup: Video Recording](/images/Lab_videorecording.png)
-![Lab Setup: Virtual Machines](Lab_VM.png)
+![Lab Setup: Virtual Machines](ac1d/certs/Lab_VM.png)
