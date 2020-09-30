@@ -7,6 +7,6 @@
 
 Title | Image
 ------|-------
-Video Recording | ![Lab Setup: Video Recording](/ac1d/images/Lab_videorecording.png | width=80)
+Video Recording | <img src="/ac1d/images/Lab_videorecording.png" width=80 height=80> 
 Virtual Machine  | ![Lab Setup: Virtual Machines](/ac1d/images/Lab_VM.png)
 Threa hunting with Pandas | ![Lab Setup: Pandas](/ac1d/images/LabhuntingPandas.png)
