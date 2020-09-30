@@ -3,7 +3,7 @@
 Welcome to ac1d hacks! A place to learn, but also a place i can call home. 
 
 ### Whoami
-NT AUTHORITY\SYSTEM - Yeah, the boss here. On a serious note... This is where all projects, hacks and discoveries will go. 
+NT AUTHORITY\SYSTEM - Yeah, the boss here. On a serious note... This is where all projects, hacks and discoveries will go.\ 
 
 ### Quick links
 * [Cyber Security Certificates](https://assassinukg.github.io/ac1d/certs/)
