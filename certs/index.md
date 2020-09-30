@@ -6,7 +6,7 @@
 
 <div class="tables"> 
 
-### Lab setup
+<h1>Lab setup</h1>
 <table>
 <tr>
    <td>Title</td>
