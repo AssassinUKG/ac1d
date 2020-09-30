@@ -134,43 +134,43 @@
    <tr>
       <td>Write a PS script that copies Sysmon to remote machines and installs it with a given configuration file</td>
       <td><img src="/ac1d/images/PS_sysmon.png" width=400 height=250></td>
-   <tr>
+   </tr>
    <tr>
       <td>Write a PS script that edits the registry to mark LSASS.exe as a protected process</td>
       <td><img src="/ac1d/images/PS_Lsass protected.png" width=400 height=250></td>
-   <tr>
+   </tr>
       <tr>
       <td>Write a PS script to turn on Hyper-V</td>
       <td><img src="/ac1d/images/PS_hyperV.png" width=400 height=250></td>
-   <tr>
+   </tr>
   <tr>
       <td>Write a PS script to list missing security patches</td>
       <td><img src="/ac1d/images/PS_listmissingpatches.png" width=400 height=250></td>
-   <tr>
+ </tr>
    <tr>
       <td>Write a PS script to disable LLMNR</td>
       <td><img src="/ac1d/images/lmnrr.png" width=400 height=250></td>
-   <tr>
+   </tr>
    <tr>
       <td>Write a PS script to turn on Automatic Sample Submission</td>
       <td><img src="/ac1d/images/PSautosubmission.png" width=400 height=250></td>
-   <tr>
+   </tr>
    <tr>
       <td>Write a PS script to turn on Windows Defender</td>
       <td><img src="/ac1d/images/PS_Defender.png" width=400 height=250></td>
-   <tr>
+   </tr>
    <tr>
       <td>Write a PS script to turn on the Windows Firewall</td>
       <td><img src="/ac1d/images/PS_firewall.png" width=400 height=250></td>
-   <tr>
+  </tr>
    <tr>
       <td>Write a PS script that detects whether a machine has more than 1 local administrator</td>
       <td><img src="/ac1d/images/PS_admin1.png" width=400 height=250></td>
-   <tr>
+   </tr>
    <tr>
       <td>Write a PS script that detects installed anti-virus software</td>
       <td><img src="/ac1d/images/PS_detectAV.png" width=400 height=250></td>
-   <tr>   
+   </tr>   
 </table>   
 <br>
 <h2>Threat Hunting</h2>
