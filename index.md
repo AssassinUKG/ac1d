@@ -8,7 +8,7 @@ NT AUTHORITY\SYSTEM - Yeah, the boss here. On a serious note... This is where al
 
 
 ### Quick links
-* [Cyber Security Certificates](https://assassinukg.github.io/ac1d/certs/)
+* [My Cyber Security Certificates](https://assassinukg.github.io/ac1d/certs/)
 * [Snippets]()
 
 ### Recent projects
