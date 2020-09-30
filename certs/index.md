@@ -219,6 +219,7 @@
 </table>
 
 <h2>Secure Software Development</h2>
+<table>
 <br/>
 <tr>
    <td>Write a web application that correctly utilises the Secure Cookie flag</td>
@@ -260,7 +261,49 @@
    <td>Write a web application that detects and blocks automated input submission tools</td>
    <td>Not started/completed</td>
 </tr>
-
-
-
+<table>
+<br/>
+   <table>
+   <h2>Red Teaming</h2>
+<tr>
+   <td>Write a TCP reverse-shell as a Windows executable</td>
+   <td><img src="/ac1d/images/TCP_revShell.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a HTTPS reverse-shell as a Windows executable</td>
+   <td><img src="/ac1d/images/HTTPSRevShell.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Exclude a folder from anti-virus scanning and run Mimikatz from there</td>
+   <td><img src="/ac1d/images/mimikatz_antiscan.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Persist on a Windows machine with a malicious user account</td>
+   <td><img src="/ac1d/images/MalciousUser.png" width=400 height=250><img src="/ac1d/images/" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Clone the authentication web page of a bank and steal user credentials</td>
+   <td><img src="/ac1d/images/Clonebankpage.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a standalone keylogger</td>
+   <td><img src="/ac1d/images/keylogger.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a Windows host enumeration program</td>
+   <td><img src="/ac1d/images/hostenumprog.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write malware that detects installed anti-virus software</td>
+   <td><img src="/ac1d/images/detectAVInstalled.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write malware that validates its target before running</td>
+   <td><img src="/ac1d/images/validate target.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write malware that detects Windows proxy settings and makes an outbound connection</td>
+   <td><img src="/ac1d/images/outbound.png" width=400 height=250></td>
+</tr>
+   </table>
 </div>
