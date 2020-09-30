@@ -27,6 +27,7 @@ Python print a single line
 
 ### Tool List
 * [Awesome hacking - Nice repo and tips](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Red Team Tools](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [Webhack tools - A great collection here](https://github.com/hahwul/WebHackersWeapons)
 
 
