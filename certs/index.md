@@ -5,7 +5,7 @@
 
 ### Lab setup
 
-Lab Setup | Image
+Title | Image
 ------|-------
 Video Recording | ![Lab Setup: Video Recording](/ac1d/images/Lab_videorecording.png)
 Virtual Machine  | ![Lab Setup: Virtual Machines](/ac1d/images/Lab_VM.png)
