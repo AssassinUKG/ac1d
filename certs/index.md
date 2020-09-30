@@ -39,9 +39,12 @@ Use Mimikatz to perform a Pass-The-Hash attack |  <img src="/ac1d/images/PAssthe
  <tr>
     <td>Video Recording</td>    
      <td><img src="/ac1d/images/Lab_videorecording.png" width=400 height=250></td> 
+   </tr><tr>
+    
     <td>Virtual Machine</td>    
      <td><img src="/ac1d/images/Lab_VM.png" width=400 height=250></td> 
-</tr>
+     </tr>
+
   
 </table>
 
