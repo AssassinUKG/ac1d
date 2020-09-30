@@ -29,7 +29,7 @@ Use Meterpreter to dump password hashes stored in the SAM database and LSASS | <
 Perform a vulnerability scan with OpenVAS | <img src="/ac1d/images/OPenVas.png" width=400 height=250>
 Use TheHarvester.py to gather information about targets | Not passed (yet)
 Use Metasploit's Port Forwarding capabilities to gain access to a machine that doesn't have direct Internet access |  <img src="/ac1d/images/portforwarding_meta.png" width=400 height=250>
-
+Use Mimikatz to perform a Pass-The-Hash attack |  <img src="/ac1d/images/PAssthehash.png" width=400 height=250>
 
 
 
