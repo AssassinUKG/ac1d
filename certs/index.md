@@ -14,9 +14,9 @@
 5. Threat Hunting
 6. Secure Software Development
 7. Red Teaming
-
 <br/>
 <div class="tables"> 
+
 <br/>
    <h1>MRI - MCSI Remote Internship</h1>    
 <h2>Lab setup</h2>
