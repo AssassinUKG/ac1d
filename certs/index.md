@@ -14,7 +14,6 @@ Malware Dataset |<img src="/ac1d/images/Lab_malware.png" width=400 height=250>
 Reverse Engineering |<img src="/ac1d/images/Lab_RE.png" width=400 height=250>
 
 ### Security Tools
-Title | Image
-------|-------
+
 Perform a TCP scan using Nmap |  <img src="/ac1d/images/TCPScan.png" width=400 height=250>
 Perform a TCP scan using Nmap |  <img src="/ac1d/images/UDPScan.png" width=400 height=250>
