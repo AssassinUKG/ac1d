@@ -3,7 +3,10 @@
 This is a space to house all material I develop, share and learn from. I hope you get a chance to learn from some of it too. 
 
 ## Quick links
-* [Certificates](https://assassinukg.github.io/ac1d/certs/)
+* [Cyber Security Certificates](https://assassinukg.github.io/ac1d/certs/)
+* [Snippets]()
+
+
 
 
 ## Recent projects
