@@ -288,7 +288,7 @@
 </tr>
 <tr>
    <td>Persist on a Windows machine with a malicious user account</td>
-   <td><img src="/ac1d/images/MalciousUser.png" width=400 height=250><img src="/ac1d/images/" width=400 height=250></td>
+   <td><img src="/ac1d/images/MalciousUser.png" width=400 height=250></td>
 </tr>
 <tr>
    <td>Clone the authentication web page of a bank and steal user credentials</td>
