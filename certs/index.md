@@ -218,6 +218,48 @@
 </tr>
 </table>
 
+<h2>Secure Software Development</h2>
+<br/>
+<tr>
+   <td>Write a web application that correctly utilises the Secure Cookie flag</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that correctly utilises the HTTP Only Cookie flag</td>
+   <td><img src="ac1d/images/Httpcookieflag.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a web application that automatically logs out users after 5 minutes of inactivity</td>
+   <td><img src="ac1d/images/5minsautologout.png" width=400 height=250></td>
+</tr>
+<tr>
+   <td>Write a web application that detects and safely handles crashes and exceptions</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that prevents clickjacking </td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that provides a secure login form</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that enforces a strong password policy and displays a password strength meter</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that detects and blocks brute force attacks</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that blocks cross-site request forgery</td>
+   <td>Not started/completed</td>
+</tr>
+<tr>
+   <td>Write a web application that detects and blocks automated input submission tools</td>
+   <td>Not started/completed</td>
+</tr>
 
 
 
