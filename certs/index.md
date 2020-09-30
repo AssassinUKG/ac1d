@@ -5,6 +5,8 @@
 
 ### Lab setup
 
-Title | Image
+Lab Setup | Image
 ------|-------
-![Lab Setup: Video Recording](/ac1d/images/Lab_videorecording.png) | ![Lab Setup: Virtual Machines](/ac1d/images/Lab_VM.png)
+Video Recording | ![Lab Setup: Video Recording](/ac1d/images/Lab_videorecording.png)
+Virtual Machine  | ![Lab Setup: Virtual Machines](/ac1d/images/Lab_VM.png)
+Threa hunting with Pandas | ![Lab Setup: Pandas](/ac1d/images/LabhuntingPandas.png)
