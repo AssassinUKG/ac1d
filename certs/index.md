@@ -6,9 +6,9 @@
 ## Trainig institute: [mosse-institute](https://www.mosse-institute.com/)
 ## Student Profile: [Richard Jones](https://students.mosse-institute.com/student/eoEPcxbizUSJ9yEZIWdLslF4Puj2)
 
-
+<br/>
 <div class="tables"> 
-<br>
+<br/>
    <h1>MRI - MCSI Remote Internship</h1>    
 <h2>Lab setup</h2>
 <table>
@@ -37,7 +37,7 @@
      </tr>
   
 </table>
-<br>
+<br/>
 <h2>Security Tools</h2>
 
 <table>
@@ -83,7 +83,7 @@
      <td><img src="/ac1d/images/PAssthehash.png" width=400 height=250></td> 
      </tr>  
 </table>
-
+<br/>
 <h2>Penetration Testing</h2>
 <table>
    <tr>
@@ -129,6 +129,7 @@
 </table>
 
 <h2>Cyber Defence</h2>
+<br/>
 <table>
    <tr>
       <td>Write a PS script that copies Sysmon to remote machines and installs it with a given configuration file</td>
@@ -173,6 +174,7 @@
 </table>   
 <br>
 <h2>Threat Hunting</h2>
+<br/>
 <table>
 <tr>
    <td>Perform Threat Hunting against 2 machines</td>
