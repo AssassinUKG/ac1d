@@ -1,6 +1,6 @@
 # ac1d hacks
 
-Welcome to ac1d hacks! A place to learn, but also a place i can call home. 
+Welcome to ac1d hacks! A place to learn, but also a place I can call home. 
 
 ### Whoami
 NT AUTHORITY\SYSTEM - Yeah, the boss here. On a serious note... This is where all projects, hacks and discoveries will go.
