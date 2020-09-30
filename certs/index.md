@@ -75,7 +75,7 @@
     <td>Use TheHarvester.py to gather information about targets</td>    
      <td>Not passed (yet)</td> 
      </tr><tr>    
-    <td>Use Metasploit's Port Forwarding capabilities to gain access to a machine that doesn't have direct Internet access</td>    
+    <td>Use Metasploit's Port Forwarding capabilities to gain access</br> to a machine that doesn't have direct Internet access</td>    
      <td><img src="/ac1d/images/portforwarding_meta.png" width=400 height=250></td> 
      </tr><tr>    
     <td>Use Mimikatz to perform a Pass-The-Hash attack</td>    
