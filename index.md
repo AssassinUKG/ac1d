@@ -2,14 +2,14 @@
 
 Welcome to ac1d hacks! A place to learn, but also a place i can call home. 
 
-# Whoami
+### Whoami
 NT AUTHORITY\SYSTEM - Yeah I the boss here. On a serious note... This is where all projects, hacks and discoveries will go. 
 
 ## Quick links
 * [Cyber Security Certificates](https://assassinukg.github.io/ac1d/certs/)
 * [Snippets]()
 
-## Recent projects
+### Recent projects
 
 Python print a single line
 
@@ -17,7 +17,7 @@ Python print a single line
 
 [Project link](https://github.com/AssassinUKG/PythonPrintSameLine)
 
-## Tool List
+### Tool List
 * [Awesome hacking - Nice repo and tips](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Webhack tools - A great collection here](https://github.com/hahwul/WebHackersWeapons)
 
