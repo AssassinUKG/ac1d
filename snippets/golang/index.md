@@ -4,7 +4,8 @@
 ### Go Snippets
 
 # Build linux on windows
-First check your env
-```go env
+First check your enviroment
 ```
-
+go env
+```
+Look for "GOARCH and GOOS" : GOARCH=amd64, GOOS=windows
