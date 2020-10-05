@@ -4,7 +4,7 @@
 * [Snippets](https://assassinukg.github.io/ac1d/snippets)
 
 # Python Reverse shell example 1
-```
+```python
 import socket
 import os
 import subprocess
