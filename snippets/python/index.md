@@ -1,7 +1,7 @@
 ### Snippets
 
-[Home page](https://assassinukg.github.io/ac1d)
-[Snippets](https://assassinukg.github.io/ac1d/snippets)
+* [Home page](https://assassinukg.github.io/ac1d)
+* [Snippets](https://assassinukg.github.io/ac1d/snippets)
 
 # Python Reverse shell example 1
 ```
