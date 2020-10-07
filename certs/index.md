@@ -256,7 +256,7 @@
 </tr>
 <tr>
    <td>Write a web application that enforces a strong password policy and displays a password strength meter</td>
-   <td><img src="/ac1d/images/strongpass" width=400 height=250></td>
+   <td><img src="/ac1d/images/strongpass.png" width=400 height=250></td>
 </tr>
 <tr>
    <td>Write a web application that detects and blocks brute force attacks</td>
