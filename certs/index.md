@@ -83,7 +83,7 @@
      </tr>
    <tr>    
     <td>Use TheHarvester.py to gather information about targets</td>    
-     <td>Not started/completed</td> 
+     <td><img src="/ac1d/images/harvester.png" width=400 height=250></td> 
      </tr><tr>    
     <td>Use Metasploit's Port Forwarding capabilities to gain access to a machine that doesn't have direct Internet access</td>    
      <td><img src="/ac1d/images/portforwarding_meta.png" width=400 height=250></td> 
@@ -232,7 +232,7 @@
 <br/>
 <tr>
    <td>Write a web application that correctly utilises the Secure Cookie flag</td>
-   <td>Not started/completed</td>
+   <td><img src="/ac1d/images/securecookieflag.png" width=400 height=250></td>
 </tr>
 <tr>
    <td>Write a web application that correctly utilises the HTTP Only Cookie flag</td>
@@ -244,11 +244,11 @@
 </tr>
 <tr>
    <td>Write a web application that detects and safely handles crashes and exceptions</td>
-   <td>Not started/completed</td>
+   <td><img src="/ac1d/images/handlecrash.png" width=400 height=250></td>
 </tr>
 <tr>
    <td>Write a web application that prevents clickjacking </td>
-   <td>Not started/completed</td>
+   <td><img src="/ac1d/images/clickjacking.png" width=400 height=250></td>
 </tr>
 <tr>
    <td>Write a web application that provides a secure login form</td>
